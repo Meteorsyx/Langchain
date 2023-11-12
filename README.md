@@ -36,3 +36,42 @@ Langchain是为了解决一些大型语言的短板，满足人们的需求产�
 - LLaMA（Meta数据泄露，开源社区狂欢）了解大型语言模型羊驼社区
 - ChatGLM（中文语料）了解中文模型的特点
 
+### langchain基础
+
+#### Python简介
+
+- 高级的接近于人类语言的编程语言，易于学习。
+- 动态语言
+- 直译式语言，这意味可以跳过编译并且逐行运行代码
+- 广泛用于Web应用程序、软件开发、数据科学和机器学习
+- 活跃的Python社区
+- 数量巨大，且内容丰富的库
+
+#### Jupyter Notebook 简介
+
+Jupyter Notebook是一个交互式的开源笔记本工具，可以用于编写、运行和共享代码、文本和图形等内容。它支持多种编程语言，包括Python、R和Julia等，可以在一个Web浏览器中进行使用。
+
+
+
+Jupyter Notebook 的一个重要特点是可以交互式地运行代码。这意味着用户可以选择性地执行某个代码单元格，而不需要从头到尾运行整个程序。这种交互式的特性使得Jupyter Notebook非常适合用于数据分析、机器学习和可视化等任务。
+
+
+
+#### Jupyter Notebook 安装与使用
+
+官方网站：https://jupyter.org/install
+
+安装命令：pip install jupyterlab
+
+启动： jupyter-lab
+
+或者可以使用VS code 的 Jupyter插件来启动
+
+
+
+#### Langchain的安装
+
+直接用pip安装langchain库
+
+pip install langchain
+
